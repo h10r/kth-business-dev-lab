@@ -2881,7 +2881,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #d9d9d9;
+  color: #196c3b;
   text-decoration: underline;
 }
 .img-rounded {
@@ -10281,7 +10281,7 @@ ul.icons-ul > li .icon-li {
   color: #000000;
 }
 .color-4 a {
-  color: #3083a7;
+  color: #155b32;
 }
 .color-4 .btn {
   color: #ffffff;
